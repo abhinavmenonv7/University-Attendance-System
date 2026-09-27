@@ -35,7 +35,7 @@ University_Attendance_System/
 ├── display.py
 └── menu.py
 
-*Module Description
+Module Description:
 
 | File | Purpose |
 |---|---|
@@ -47,7 +47,7 @@ University_Attendance_System/
 | `display.py` | Displays student and attendance information |
 | `menu.py` | Displays the main menu |
 
-*Steps to Install & Run the Project
+Steps to Install & Run the Project:
 
 1. Install Python
 Install **Python 3.x** on your computer if it is not already installed.
@@ -74,7 +74,7 @@ The program displays:
 5. Exit
 Enter the corresponding number to perform an operation.
 
-*Instructions for Testing
+Instructions for Testing:
 
 The following test cases can be used to verify that the project works correctly.
 | Test | Action/Input | Expected Result |
@@ -91,13 +91,14 @@ The following test cases can be used to verify that the project works correctly.
 | No Students | Select `4` before adding any student | `No students found.` is displayed |
 | Exit | Select `5` | Program exits successfully |
 
-*Attendance Percentage
+Attendance Percentage:
 
 The system calculates attendance using:
 Attendance Percentage =
 (Present / (Present + Absent)) × 100
 
-*Screenshots
+Screenshots:
+
 <img width="1547" height="812" alt="image" src="https://github.com/user-attachments/assets/5702e4bb-3762-49f2-94c9-7d77c54e9674" />
 <img width="1131" height="488" alt="image" src="https://github.com/user-attachments/assets/59b743c0-f50f-4add-ad28-7082a441ee95" />
 <img width="856" height="573" alt="image" src="https://github.com/user-attachments/assets/443be81a-732d-4a79-b3cf-32a62d009222" />
