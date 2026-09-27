@@ -1,11 +1,11 @@
 *University Attendance System*
 
-*Overview of the Project
+Overview of the Project:
 
-The **University Attendance System** is a command-line based Python project designed to manage student attendance. It allows the user to add students, mark them as Present or Absent, view the attendance details of an individual student, and view attendance information for all students.
+The University Attendance System is a command-line based Python project designed to manage student attendance. It allows the user to add students, mark them as Present or Absent, view the attendance details of an individual student, and view attendance information for all students.
 The project is implemented using **custom Python modules**. The main program (`main.py`) imports and coordinates the functions provided by the other modules, making the project organized, modular, and easier to maintain.
 
-*Features
+Features:
 
 - Add a new student using a roll number and name.
 - Mark attendance as **Present (P)** or **Absent (A)**.
@@ -17,14 +17,14 @@ The project is implemented using **custom Python modules**. The main program (`m
 - Modular structure using separate user-defined Python files.
 - Simple menu-driven command-line interface.
 
-*Technologies/Tools Used
+Technologies/Tools Used:
 
-- **Python 3.x**
-- **Visual Studio Code (VS Code)** – for writing and running the program
-- **Python Standard Library** – basic Python functions, dictionaries, loops, conditions, and modules
-- **GitHub** – for storing and sharing the project source code
+- Python 3.x
+- Visual Studio Code (VS Code) – for writing and running the program
+- Python Standard Library – basic Python functions, dictionaries, loops, conditions, and modules
+- GitHub – for storing and sharing the project source code
 
-*Project Structure
+Project Structure:
 
 University_Attendance_System/
 ├── main.py
@@ -96,3 +96,10 @@ The following test cases can be used to verify that the project works correctly.
 The system calculates attendance using:
 Attendance Percentage =
 (Present / (Present + Absent)) × 100
+
+*Screenshots
+<img width="1547" height="812" alt="image" src="https://github.com/user-attachments/assets/5702e4bb-3762-49f2-94c9-7d77c54e9674" />
+<img width="1131" height="488" alt="image" src="https://github.com/user-attachments/assets/59b743c0-f50f-4add-ad28-7082a441ee95" />
+<img width="856" height="573" alt="image" src="https://github.com/user-attachments/assets/443be81a-732d-4a79-b3cf-32a62d009222" />
+<img width="782" height="432" alt="image" src="https://github.com/user-attachments/assets/416e43db-49ec-4fbe-b968-01ca2d9b1c78" />
+<img width="647" height="473" alt="image" src="https://github.com/user-attachments/assets/c903e657-a720-498c-8e72-f259bc20c97d" />
